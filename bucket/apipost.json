@@ -6,8 +6,8 @@
     "url": "https://www.apipost.cn/dl.php?client=Win&arch=x64&version=7.0.0",
     "hash": "5c1939978fda612f342d4e37071cb7c155ee06a1b891b8674e006360d15c9be9",
     "innosetup": false,
-    "bin": "apipost_win_x64_7.0.0.exe",
+    "bin": "apipost_win_x64_7.0.0",
     "autoupdate": {
-        "url": "https://www.apipost.cn/dl.php?client=Win&arch=x64&version=$version.exe"
+        "url": "https://www.apipost.cn/dl.php?client=Win&arch=x64&version=$version"
     }
 }
